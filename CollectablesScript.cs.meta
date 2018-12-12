@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b84a29c5e19bcfe4f818b7ad1def0055
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AmmoCollectionSound: {fileID: 1446689284997294, guid: 077de0cc2771cc3449233b8811798e9f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5adcbe66e04aa98449ed11d841a1b01d
+timeCreated: 1528469856
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RedBullet: {fileID: 54724003495219588, guid: 85632bf9ffdc8ff489caa13f1a4d250f,
+      type: 2}
+  - BlueBullet: {fileID: 54961959352773798, guid: a07ec4f1b6517e542ad49341de7ffb0b,
+      type: 2}
+  - Turret: {fileID: 1691105160572582, guid: fa9c0c23c33cee647b974d655d085ee4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

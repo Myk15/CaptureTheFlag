@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f68552bf630cacd4eaa5432d4f26b8ba
+timeCreated: 1528467913
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healingRay: {fileID: 1580927720361926, guid: 114e68e9aa0e6a24886fd103f4239ef9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e0441b7e79a52c349be65de1e6c6c595
+timeCreated: 1528712330
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RedMine: {fileID: 1179151110505832, guid: df4ed1949e90bff4192c68b30801f897, type: 2}
+  - BlueMine: {fileID: 1554121463991230, guid: c5826bed260644249b1292fdd32ccd77, type: 2}
+  - NewMine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
